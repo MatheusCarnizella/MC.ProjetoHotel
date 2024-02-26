@@ -1,0 +1,17 @@
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\bin\Debug\net8.0\HotelProject.Infra.Repository.deps.json
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\bin\Debug\net8.0\HotelProject.Infra.Repository.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\bin\Debug\net8.0\HotelProject.Infra.Repository.pdb
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\bin\Debug\net8.0\HotelProject.Domain.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\bin\Debug\net8.0\HotelProject.Infra.Context.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\bin\Debug\net8.0\HotelProject.Domain.pdb
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\bin\Debug\net8.0\HotelProject.Infra.Context.pdb
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\obj\Debug\net8.0\HotelProject.Infra.Repository.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\obj\Debug\net8.0\HotelProject.Infra.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\obj\Debug\net8.0\HotelProject.Infra.Repository.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\obj\Debug\net8.0\HotelProject.Infra.Repository.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\obj\Debug\net8.0\HotelProject.Infra.Repository.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\obj\Debug\net8.0\HotelPro.8D0AD6BF.Up2Date
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\obj\Debug\net8.0\HotelProject.Infra.Repository.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\obj\Debug\net8.0\refint\HotelProject.Infra.Repository.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\obj\Debug\net8.0\HotelProject.Infra.Repository.pdb
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Repository\obj\Debug\net8.0\ref\HotelProject.Infra.Repository.dll

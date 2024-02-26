@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HotelProject.Domain\HotelProject.Domain.csproj" />
+    <ProjectReference Include="..\HotelProject.Infra.Repository\HotelProject.Infra.Repository.csproj" />
+    <ProjectReference Include="..\HoteProject.Application\HoteProject.Application.csproj" />
+  </ItemGroup>
+
+</Project>

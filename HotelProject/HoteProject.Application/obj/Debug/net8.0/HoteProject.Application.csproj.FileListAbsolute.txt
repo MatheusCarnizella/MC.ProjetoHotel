@@ -1,0 +1,17 @@
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\bin\Debug\net8.0\HoteProject.Application.deps.json
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\bin\Debug\net8.0\HoteProject.Application.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\bin\Debug\net8.0\HoteProject.Application.pdb
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\bin\Debug\net8.0\HotelProject.Domain.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\bin\Debug\net8.0\HotelProject.Infra.Context.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\bin\Debug\net8.0\HotelProject.Domain.pdb
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\bin\Debug\net8.0\HotelProject.Infra.Context.pdb
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\obj\Debug\net8.0\HoteProject.Application.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\obj\Debug\net8.0\HoteProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\obj\Debug\net8.0\HoteProject.Application.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\obj\Debug\net8.0\HoteProject.Application.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\obj\Debug\net8.0\HoteProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\obj\Debug\net8.0\HoteProj.1F49CECE.Up2Date
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\obj\Debug\net8.0\HoteProject.Application.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\obj\Debug\net8.0\refint\HoteProject.Application.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\obj\Debug\net8.0\HoteProject.Application.pdb
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\obj\Debug\net8.0\ref\HoteProject.Application.dll

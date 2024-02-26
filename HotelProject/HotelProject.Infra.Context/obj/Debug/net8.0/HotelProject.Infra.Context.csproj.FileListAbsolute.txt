@@ -1,0 +1,15 @@
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Context\bin\Debug\net8.0\HotelProject.Infra.Context.deps.json
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Context\bin\Debug\net8.0\HotelProject.Infra.Context.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Context\bin\Debug\net8.0\HotelProject.Infra.Context.pdb
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Context\bin\Debug\net8.0\HotelProject.Domain.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Context\bin\Debug\net8.0\HotelProject.Domain.pdb
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Context\obj\Debug\net8.0\HotelProject.Infra.Context.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Context\obj\Debug\net8.0\HotelProject.Infra.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Context\obj\Debug\net8.0\HotelProject.Infra.Context.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Context\obj\Debug\net8.0\HotelProject.Infra.Context.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Context\obj\Debug\net8.0\HotelProject.Infra.Context.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Context\obj\Debug\net8.0\HotelPro.3DAF6D3E.Up2Date
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Context\obj\Debug\net8.0\HotelProject.Infra.Context.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Context\obj\Debug\net8.0\refint\HotelProject.Infra.Context.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Context\obj\Debug\net8.0\HotelProject.Infra.Context.pdb
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Infra.Context\obj\Debug\net8.0\ref\HotelProject.Infra.Context.dll
