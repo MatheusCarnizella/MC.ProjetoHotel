@@ -2,7 +2,7 @@
 {
     public enum Status
     {
-        Criado = 0,
+        Aberto = 0,
         Pago = 1,
         Finalizado = 2,
         Cancelado = 3,

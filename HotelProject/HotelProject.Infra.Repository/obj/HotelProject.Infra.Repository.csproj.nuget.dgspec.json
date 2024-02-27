@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Infra.Repository\\HotelProject.Infra.Repository.csproj": {}
+    "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Repository\\HotelProject.Infra.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\HotelProject.Domain.csproj": {
+    "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Domain\\HotelProject.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\HotelProject.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Domain\\HotelProject.Domain.csproj",
         "projectName": "HotelProject.Domain",
-        "projectPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\HotelProject.Domain.csproj",
+        "projectPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Domain\\HotelProject.Domain.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj": {
+    "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj",
         "projectName": "HotelProject.Infra.Context",
-        "projectPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj",
+        "projectPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Infra.Context\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Context\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,8 +96,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\HotelProject.Domain.csproj": {
-                "projectPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\HotelProject.Domain.csproj"
+              "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Domain\\HotelProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Domain\\HotelProject.Domain.csproj"
               }
             }
           }
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Infra.Repository\\HotelProject.Infra.Repository.csproj": {
+    "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Repository\\HotelProject.Infra.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Infra.Repository\\HotelProject.Infra.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Repository\\HotelProject.Infra.Repository.csproj",
         "projectName": "HotelProject.Infra.Repository",
-        "projectPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Infra.Repository\\HotelProject.Infra.Repository.csproj",
+        "projectPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Repository\\HotelProject.Infra.Repository.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Infra.Repository\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -174,11 +174,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\HotelProject.Domain.csproj": {
-                "projectPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\HotelProject.Domain.csproj"
+              "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Domain\\HotelProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Domain\\HotelProject.Domain.csproj"
               },
-              "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj": {
-                "projectPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj"
+              "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj": {
+                "projectPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj"
               }
             }
           }

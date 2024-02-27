@@ -5,10 +5,30 @@ namespace HotelProject.Domain.Entities.Hotel
 {
     public class Aluguel : IAluguel
     {
+        public Aluguel() => Status = Status.Aberto;
+
         public int Id { get; set; }
         public string AlugadoPor {  get; set; }
         public DateTime Inicio { get; set; }
         public DateTime Fim {  get; set; }
-        public Status Status { get; set; }
+        private Status Status { get; set; }
+        public Status StatusAtual { get
+            {
+                return Status;
+            } 
+        }
+
+        public void AcaoUsuario(AcoesUsuario acao)
+        {
+            Status = (Status, acao) switch
+            {
+                (Status.Aberto, AcoesUsuario.Pago) => Status.Pago,
+                (Status.Aberto, AcoesUsuario.Cancelado) => Status.Cancelado,
+                (Status.Pago, AcoesUsuario.Final) => Status.Finalizado,
+                (Status.Pago, AcoesUsuario.Reenbolso) => Status.Reembolsado,
+                (Status.Cancelado, AcoesUsuario.Reaberto) => Status.Aberto,
+                _ => Status
+            };
+        }
     }
 }

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HoteProject.Application
-build_property.ProjectDir = C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HoteProject.Application\
+build_property.ProjectDir = C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject\HoteProject.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j8My6xjAZiv5/q7XJVvfHRPptDZeo3UtoESNR/gPyzENWG4yDFUyUWxggR8kwhzxpa3eSstMfFATVcrQzosXQw==",
+  "dgSpecHash": "UZYfiGwm8CVrqznEEdd5yq4XIUcpUiNv5ehAszrHOmEaGDV6bffGj7T39n0uuyK2Zsn3EDkUqDT8KMlJtI9fQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Api\\HotelProject.Api.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Api\\HotelProject.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -23,6 +23,7 @@
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.2\\microsoft.entityframeworkcore.design.8.0.2.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.2\\microsoft.entityframeworkcore.relational.8.0.2.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.2\\microsoft.entityframeworkcore.sqlserver.8.0.2.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.2\\microsoft.entityframeworkcore.tools.8.0.2.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",

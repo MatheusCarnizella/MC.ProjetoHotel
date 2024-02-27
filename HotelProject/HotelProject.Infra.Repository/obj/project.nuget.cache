@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WyJh0WUebdsiVDvtavuOscPjtNJSN+Uae5gdkzf13kyCFy8T8Uo/BfeRqamba5XZmrCDZzrUc6orJXlXmjdvcg==",
+  "dgSpecHash": "WAJzlILF6YiXGMHkRg56/Eqmocqx/vzOJgSFgVVVAvimqiKRCjVRkMOKrhybOMhtnsses3t+yvmQmQG7IIR9bA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Infra.Repository\\HotelProject.Infra.Repository.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Repository\\HotelProject.Infra.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",

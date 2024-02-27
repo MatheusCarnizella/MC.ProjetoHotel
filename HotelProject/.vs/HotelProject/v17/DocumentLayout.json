@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\",
+  "WorkspaceRootPath": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A474FD63-CB24-42AE-AFD1-C73437E29E31}|HotelProject.Domain\\HotelProject.Domain.csproj|c:\\users\\mathe\\desktop\\git_projects\\aspnet_projects\\hotelproject\\hotelproject.domain\\entities\\hotel\\quartos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474FD63-CB24-42AE-AFD1-C73437E29E31}|HotelProject.Domain\\HotelProject.Domain.csproj|solutionrelative:hotelproject.domain\\entities\\hotel\\quartos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2852A27D-1D32-42B2-B7D7-B5DCBF7B1F2C}|HotelProject.Api\\HotelProject.Api.csproj|c:\\users\\mathe\\desktop\\git_projects\\aspnet_projects\\hotelproject\\hotelproject\\hotelproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2852A27D-1D32-42B2-B7D7-B5DCBF7B1F2C}|HotelProject.Api\\HotelProject.Api.csproj|solutionrelative:hotelproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A474FD63-CB24-42AE-AFD1-C73437E29E31}|HotelProject.Domain\\HotelProject.Domain.csproj|c:\\users\\mathe\\desktop\\git_projects\\aspnet_projects\\hotelproject\\hotelproject.domain\\entities\\hotel\\aluguel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474FD63-CB24-42AE-AFD1-C73437E29E31}|HotelProject.Domain\\HotelProject.Domain.csproj|solutionrelative:hotelproject.domain\\entities\\hotel\\aluguel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84561B50-76D6-4751-8ED2-88C7D1D2B60F}|HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj|c:\\users\\mathe\\desktop\\git_projects\\aspnet_projects\\hotelproject\\hotelproject\\hotelproject.infra.context\\mappings\\aluguelmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84561B50-76D6-4751-8ED2-88C7D1D2B60F}|HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj|solutionrelative:hotelproject.infra.context\\mappings\\aluguelmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A474FD63-CB24-42AE-AFD1-C73437E29E31}|HotelProject.Domain\\HotelProject.Domain.csproj|c:\\users\\mathe\\desktop\\git_projects\\aspnet_projects\\hotelproject\\hotelproject.domain\\entities\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474FD63-CB24-42AE-AFD1-C73437E29E31}|HotelProject.Domain\\HotelProject.Domain.csproj|solutionrelative:hotelproject.domain\\entities\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84561B50-76D6-4751-8ED2-88C7D1D2B60F}|HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj|c:\\users\\mathe\\desktop\\git_projects\\aspnet_projects\\hotelproject\\hotelproject\\hotelproject.infra.context\\mappings\\quartosmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84561B50-76D6-4751-8ED2-88C7D1D2B60F}|HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj|solutionrelative:hotelproject.infra.context\\mappings\\quartosmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A474FD63-CB24-42AE-AFD1-C73437E29E31}|HotelProject.Domain\\HotelProject.Domain.csproj|c:\\users\\mathe\\desktop\\git_projects\\aspnet_projects\\hotelproject\\hotelproject.domain\\entities\\common\\ialuguel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474FD63-CB24-42AE-AFD1-C73437E29E31}|HotelProject.Domain\\HotelProject.Domain.csproj|solutionrelative:hotelproject.domain\\entities\\common\\ialuguel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2852A27D-1D32-42B2-B7D7-B5DCBF7B1F2C}|HotelProject.Api\\HotelProject.Api.csproj|c:\\users\\mathe\\desktop\\git_projects\\aspnet_projects\\hotelproject\\hotelproject\\hotelproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2852A27D-1D32-42B2-B7D7-B5DCBF7B1F2C}|HotelProject.Api\\HotelProject.Api.csproj|solutionrelative:hotelproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A474FD63-CB24-42AE-AFD1-C73437E29E31}|HotelProject.Domain\\HotelProject.Domain.csproj|c:\\users\\mathe\\desktop\\git_projects\\aspnet_projects\\hotelproject\\hotelproject.domain\\entities\\hotel\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474FD63-CB24-42AE-AFD1-C73437E29E31}|HotelProject.Domain\\HotelProject.Domain.csproj|solutionrelative:hotelproject.domain\\entities\\hotel\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84561B50-76D6-4751-8ED2-88C7D1D2B60F}|HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj|c:\\users\\mathe\\desktop\\git_projects\\aspnet_projects\\hotelproject\\hotelproject\\hotelproject.infra.context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84561B50-76D6-4751-8ED2-88C7D1D2B60F}|HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj|solutionrelative:hotelproject.infra.context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A474FD63-CB24-42AE-AFD1-C73437E29E31}|HotelProject.Domain\\HotelProject.Domain.csproj|c:\\users\\mathe\\desktop\\git_projects\\aspnet_projects\\hotelproject\\hotelproject.domain\\entities\\common\\iroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474FD63-CB24-42AE-AFD1-C73437E29E31}|HotelProject.Domain\\HotelProject.Domain.csproj|solutionrelative:hotelproject.domain\\entities\\common\\iroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A474FD63-CB24-42AE-AFD1-C73437E29E31}|HotelProject.Domain\\HotelProject.Domain.csproj|c:\\users\\mathe\\desktop\\git_projects\\aspnet_projects\\hotelproject\\hotelproject.domain\\entities\\common\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474FD63-CB24-42AE-AFD1-C73437E29E31}|HotelProject.Domain\\HotelProject.Domain.csproj|solutionrelative:hotelproject.domain\\entities\\common\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84561B50-76D6-4751-8ED2-88C7D1D2B60F}|HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj|c:\\users\\mathe\\desktop\\git_projects\\aspnet_projects\\hotelproject\\hotelproject\\hotelproject.infra.context\\mappings\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84561B50-76D6-4751-8ED2-88C7D1D2B60F}|HotelProject.Infra.Context\\HotelProject.Infra.Context.csproj|solutionrelative:hotelproject.infra.context\\mappings\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,93 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Status.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\Entities\\Enums\\Status.cs",
-              "RelativeDocumentMoniker": "HotelProject.Domain\\Entities\\Enums\\Status.cs",
-              "ToolTip": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\Entities\\Enums\\Status.cs",
-              "RelativeToolTip": "HotelProject.Domain\\Entities\\Enums\\Status.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "DocumentIndex": 5,
+              "Title": "UsuarioMap.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Context\\Mappings\\UsuarioMap.cs",
+              "RelativeDocumentMoniker": "HotelProject.Infra.Context\\Mappings\\UsuarioMap.cs",
+              "ToolTip": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Context\\Mappings\\UsuarioMap.cs",
+              "RelativeToolTip": "HotelProject.Infra.Context\\Mappings\\UsuarioMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T23:01:15.583Z",
+              "WhenOpened": "2024-02-27T03:48:13.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAluguel.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\Entities\\Common\\IAluguel.cs",
-              "RelativeDocumentMoniker": "HotelProject.Domain\\Entities\\Common\\IAluguel.cs",
-              "ToolTip": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\Entities\\Common\\IAluguel.cs",
-              "RelativeToolTip": "HotelProject.Domain\\Entities\\Common\\IAluguel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "DocumentIndex": 2,
+              "Title": "QuartosMap.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Context\\Mappings\\QuartosMap.cs",
+              "RelativeDocumentMoniker": "HotelProject.Infra.Context\\Mappings\\QuartosMap.cs",
+              "ToolTip": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Context\\Mappings\\QuartosMap.cs",
+              "RelativeToolTip": "HotelProject.Infra.Context\\Mappings\\QuartosMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T22:57:48.265Z",
+              "WhenOpened": "2024-02-27T03:48:07.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Aluguel.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\Entities\\Hotel\\Aluguel.cs",
-              "RelativeDocumentMoniker": "HotelProject.Domain\\Entities\\Hotel\\Aluguel.cs",
-              "ToolTip": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\Entities\\Hotel\\Aluguel.cs",
-              "RelativeToolTip": "HotelProject.Domain\\Entities\\Hotel\\Aluguel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Title": "AluguelMap.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Context\\Mappings\\AluguelMap.cs",
+              "RelativeDocumentMoniker": "HotelProject.Infra.Context\\Mappings\\AluguelMap.cs",
+              "ToolTip": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Context\\Mappings\\AluguelMap.cs",
+              "RelativeToolTip": "HotelProject.Infra.Context\\Mappings\\AluguelMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T22:57:16.858Z",
+              "WhenOpened": "2024-02-27T03:48:02.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Quartos.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\Entities\\Hotel\\Quartos.cs",
-              "RelativeDocumentMoniker": "HotelProject.Domain\\Entities\\Hotel\\Quartos.cs",
-              "ToolTip": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\Entities\\Hotel\\Quartos.cs",
-              "RelativeToolTip": "HotelProject.Domain\\Entities\\Hotel\\Quartos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T22:47:58.807Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelProject.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Api\\appsettings.json",
+              "RelativeToolTip": "HotelProject.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-27T03:27:19.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRoom.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\Entities\\Common\\IRoom.cs",
-              "RelativeDocumentMoniker": "HotelProject.Domain\\Entities\\Common\\IRoom.cs",
-              "ToolTip": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\Entities\\Common\\IRoom.cs",
-              "RelativeToolTip": "HotelProject.Domain\\Entities\\Common\\IRoom.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Api\\Program.cs",
+              "RelativeDocumentMoniker": "HotelProject.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Api\\Program.cs",
+              "RelativeToolTip": "HotelProject.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T22:46:41.705Z",
+              "WhenOpened": "2024-02-27T03:06:04.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\Entities\\Hotel\\Usuario.cs",
-              "RelativeDocumentMoniker": "HotelProject.Domain\\Entities\\Hotel\\Usuario.cs",
-              "ToolTip": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\Entities\\Hotel\\Usuario.cs",
-              "RelativeToolTip": "HotelProject.Domain\\Entities\\Hotel\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Context\\Context.cs",
+              "RelativeDocumentMoniker": "HotelProject.Infra.Context\\Context.cs",
+              "ToolTip": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject\\HotelProject.Infra.Context\\Context.cs",
+              "RelativeToolTip": "HotelProject.Infra.Context\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T22:37:54.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IEntity.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\Entities\\Common\\IEntity.cs",
-              "RelativeDocumentMoniker": "HotelProject.Domain\\Entities\\Common\\IEntity.cs",
-              "ToolTip": "C:\\Users\\mathe\\Desktop\\Git_projects\\ASPNET_PROJECTS\\HotelProject\\HotelProject.Domain\\Entities\\Common\\IEntity.cs",
-              "RelativeToolTip": "HotelProject.Domain\\Entities\\Common\\IEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T22:37:16.526Z",
+              "WhenOpened": "2024-02-27T02:59:11.245Z",
               "EditorCaption": ""
             }
           ]

@@ -13,12 +13,17 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\HotelProject.Data\HotelProject.Data.csproj" />
     <ProjectReference Include="..\HotelProject.Infra.IoC\HotelProject.Infra.IoC.csproj" />
-    <ProjectReference Include="..\HoteProject.Application\HoteProject.Application.csproj" />
+    <ProjectReference Include="..\HoteProject.Application\HotelProject.Application.csproj" />
   </ItemGroup>
 
 </Project>

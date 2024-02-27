@@ -8,11 +8,13 @@
     ".NETCoreApp,Version=v8.0": {
       "HotelProject.Api/1.0.0": {
         "dependencies": {
-          "HoteProject.Application": "1.0.0",
+          "HotelProject.Application": "1.0.0",
+          "HotelProject.Data": "1.0.0",
           "HotelProject.Infra.IoC": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "8.0.2",
           "Microsoft.EntityFrameworkCore.Design": "8.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2",
+          "Microsoft.EntityFrameworkCore.Tools": "8.0.2",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
@@ -423,6 +425,11 @@
             "assemblyVersion": "8.0.2.0",
             "fileVersion": "8.0.224.6803"
           }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Tools/8.0.2": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "8.0.2"
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/6.0.5": {},
@@ -912,6 +919,25 @@
           }
         }
       },
+      "HotelProject.Application/1.0.0": {
+        "dependencies": {
+          "HotelProject.Domain": "1.0.0",
+          "HotelProject.Infra.Context": "1.0.0"
+        },
+        "runtime": {
+          "HotelProject.Application.dll": {}
+        }
+      },
+      "HotelProject.Data/1.0.0": {
+        "dependencies": {
+          "HotelProject.Infra.Context": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2"
+        },
+        "runtime": {
+          "HotelProject.Data.dll": {}
+        }
+      },
       "HotelProject.Domain/1.0.0": {
         "runtime": {
           "HotelProject.Domain.dll": {}
@@ -929,7 +955,7 @@
       },
       "HotelProject.Infra.IoC/1.0.0": {
         "dependencies": {
-          "HoteProject.Application": "1.0.0",
+          "HotelProject.Application": "1.0.0",
           "HotelProject.Domain": "1.0.0",
           "HotelProject.Infra.Repository": "1.0.0"
         },
@@ -945,15 +971,6 @@
         },
         "runtime": {
           "HotelProject.Infra.Repository.dll": {}
-        }
-      },
-      "HoteProject.Application/1.0.0": {
-        "dependencies": {
-          "HotelProject.Domain": "1.0.0",
-          "HotelProject.Infra.Context": "1.0.0"
-        },
-        "runtime": {
-          "HoteProject.Application.dll": {}
         }
       }
     }
@@ -1096,6 +1113,13 @@
       "sha512": "sha512-tAS5mYr/mwCXZVC5dyJlzdKHK0MLU0TAxNcc30xi7XLju8DE3S0Y206Yfi/MyuzLjulQRq9n2vjieeCxOnQfkg==",
       "path": "microsoft.entityframeworkcore.sqlserver/8.0.2",
       "hashPath": "microsoft.entityframeworkcore.sqlserver.8.0.2.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Tools/8.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PWy3X3Z1fnWlbU6pQMSnBvMwqERoKsriJ688TMl1xT2NyqcSk6/dX22eI5eV+qYXYmYna72Dq2u0P8tNZ6AYtg==",
+      "path": "microsoft.entityframeworkcore.tools/8.0.2",
+      "hashPath": "microsoft.entityframeworkcore.tools.8.0.2.nupkg.sha512"
     },
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
       "type": "package",
@@ -1538,6 +1562,16 @@
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
+    "HotelProject.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HotelProject.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "HotelProject.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -1554,11 +1588,6 @@
       "sha512": ""
     },
     "HotelProject.Infra.Repository/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "HoteProject.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

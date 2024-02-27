@@ -9,3 +9,15 @@ C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Do
 C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Domain\obj\Debug\net8.0\refint\HotelProject.Domain.dll
 C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Domain\obj\Debug\net8.0\HotelProject.Domain.pdb
 C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject.Domain\obj\Debug\net8.0\ref\HotelProject.Domain.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject\HotelProject.Domain\bin\Debug\net8.0\HotelProject.Domain.deps.json
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject\HotelProject.Domain\bin\Debug\net8.0\HotelProject.Domain.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject\HotelProject.Domain\bin\Debug\net8.0\HotelProject.Domain.pdb
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject\HotelProject.Domain\obj\Debug\net8.0\HotelProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject\HotelProject.Domain\obj\Debug\net8.0\HotelProject.Domain.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject\HotelProject.Domain\obj\Debug\net8.0\HotelProject.Domain.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject\HotelProject.Domain\obj\Debug\net8.0\HotelProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject\HotelProject.Domain\obj\Debug\net8.0\HotelProject.Domain.sourcelink.json
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject\HotelProject.Domain\obj\Debug\net8.0\HotelProject.Domain.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject\HotelProject.Domain\obj\Debug\net8.0\refint\HotelProject.Domain.dll
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject\HotelProject.Domain\obj\Debug\net8.0\HotelProject.Domain.pdb
+C:\Users\mathe\Desktop\Git_projects\ASPNET_PROJECTS\HotelProject\HotelProject\HotelProject.Domain\obj\Debug\net8.0\ref\HotelProject.Domain.dll

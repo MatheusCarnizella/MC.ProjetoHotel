@@ -11,17 +11,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Domain", "3. Domain", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Infra", "4. Infra", "{BED49EE0-D2B7-423B-8AF1-FC726635FBC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelProject.Api", "HotelProject.Api\HotelProject.Api.csproj", "{2852A27D-1D32-42B2-B7D7-B5DCBF7B1F2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelProject.Api", "HotelProject.Api\HotelProject.Api.csproj", "{2852A27D-1D32-42B2-B7D7-B5DCBF7B1F2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoteProject.Application", "HoteProject.Application\HoteProject.Application.csproj", "{C517F3ED-AAA4-40A4-80ED-CACEB1CC7CDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelProject.Application", "HoteProject.Application\HotelProject.Application.csproj", "{C517F3ED-AAA4-40A4-80ED-CACEB1CC7CDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelProject.Domain", "HotelProject.Domain\HotelProject.Domain.csproj", "{A474FD63-CB24-42AE-AFD1-C73437E29E31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelProject.Domain", "HotelProject.Domain\HotelProject.Domain.csproj", "{A474FD63-CB24-42AE-AFD1-C73437E29E31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelProject.Infra.Context", "HotelProject.Infra.Context\HotelProject.Infra.Context.csproj", "{84561B50-76D6-4751-8ED2-88C7D1D2B60F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelProject.Infra.Context", "HotelProject.Infra.Context\HotelProject.Infra.Context.csproj", "{84561B50-76D6-4751-8ED2-88C7D1D2B60F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelProject.Infra.IoC", "HotelProject.Infra.IoC\HotelProject.Infra.IoC.csproj", "{962CBCF5-E2DD-4A38-9F74-8029B94AF39E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelProject.Infra.IoC", "HotelProject.Infra.IoC\HotelProject.Infra.IoC.csproj", "{962CBCF5-E2DD-4A38-9F74-8029B94AF39E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelProject.Infra.Repository", "HotelProject.Infra.Repository\HotelProject.Infra.Repository.csproj", "{D40D800F-F842-4A82-A008-9A5B0BB7B5C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelProject.Infra.Repository", "HotelProject.Infra.Repository\HotelProject.Infra.Repository.csproj", "{D40D800F-F842-4A82-A008-9A5B0BB7B5C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Data", "5. Data", "{B393C832-A385-4E77-B360-73DDCB6368E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelProject.Data", "HotelProject.Data\HotelProject.Data.csproj", "{43ACDC79-2928-4367-B42C-E699FBE8087C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +57,10 @@ Global
 		{D40D800F-F842-4A82-A008-9A5B0BB7B5C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D40D800F-F842-4A82-A008-9A5B0BB7B5C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D40D800F-F842-4A82-A008-9A5B0BB7B5C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43ACDC79-2928-4367-B42C-E699FBE8087C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43ACDC79-2928-4367-B42C-E699FBE8087C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43ACDC79-2928-4367-B42C-E699FBE8087C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43ACDC79-2928-4367-B42C-E699FBE8087C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +72,7 @@ Global
 		{84561B50-76D6-4751-8ED2-88C7D1D2B60F} = {BED49EE0-D2B7-423B-8AF1-FC726635FBC4}
 		{962CBCF5-E2DD-4A38-9F74-8029B94AF39E} = {BED49EE0-D2B7-423B-8AF1-FC726635FBC4}
 		{D40D800F-F842-4A82-A008-9A5B0BB7B5C9} = {BED49EE0-D2B7-423B-8AF1-FC726635FBC4}
+		{43ACDC79-2928-4367-B42C-E699FBE8087C} = {B393C832-A385-4E77-B360-73DDCB6368E7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {48E44D47-DB3F-4034-9C5B-6E397BDA2C64}

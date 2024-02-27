@@ -9,7 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\HotelProject.Domain\HotelProject.Domain.csproj" />
     <ProjectReference Include="..\HotelProject.Infra.Repository\HotelProject.Infra.Repository.csproj" />
-    <ProjectReference Include="..\HoteProject.Application\HoteProject.Application.csproj" />
+    <ProjectReference Include="..\HoteProject.Application\HotelProject.Application.csproj" />
   </ItemGroup>
 
 </Project>
