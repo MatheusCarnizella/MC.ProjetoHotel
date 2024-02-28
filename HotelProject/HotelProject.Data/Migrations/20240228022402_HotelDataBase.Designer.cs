@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HotelProject.Data.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20240227042426_HotelApi")]
-    partial class HotelApi
+    [Migration("20240228022402_HotelDataBase")]
+    partial class HotelDataBase
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -43,12 +43,7 @@ namespace HotelProject.Data.Migrations
                     b.Property<DateTime>("Inicio")
                         .HasColumnType("datetime2");
 
-                    b.Property<int?>("QuartosId")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
-
-                    b.HasIndex("QuartosId");
 
                     b.ToTable("Aluguel", "Hotel");
                 });
@@ -67,6 +62,9 @@ namespace HotelProject.Data.Migrations
                     b.Property<int>("Andar")
                         .HasColumnType("int");
 
+                    b.Property<int>("IdAluguel")
+                        .HasColumnType("int");
+
                     b.Property<bool>("Manutencao")
                         .HasColumnType("bit");
 
@@ -75,6 +73,8 @@ namespace HotelProject.Data.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("IdAluguel");
 
                     b.ToTable("Quartos", "Hotel");
                 });
@@ -88,6 +88,7 @@ namespace HotelProject.Data.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Nome")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -95,15 +96,14 @@ namespace HotelProject.Data.Migrations
                     b.ToTable("Usuario", "Hotel");
                 });
 
-            modelBuilder.Entity("HotelProject.Domain.Entities.Hotel.Aluguel", b =>
-                {
-                    b.HasOne("HotelProject.Domain.Entities.Hotel.Quartos", null)
-                        .WithMany("Aluguel")
-                        .HasForeignKey("QuartosId");
-                });
-
             modelBuilder.Entity("HotelProject.Domain.Entities.Hotel.Quartos", b =>
                 {
+                    b.HasOne("HotelProject.Domain.Entities.Hotel.Aluguel", "Aluguel")
+                        .WithMany()
+                        .HasForeignKey("IdAluguel")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.Navigation("Aluguel");
                 });
 #pragma warning restore 612, 618

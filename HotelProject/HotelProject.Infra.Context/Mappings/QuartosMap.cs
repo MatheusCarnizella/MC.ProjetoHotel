@@ -1,6 +1,7 @@
 ﻿using HotelProject.Domain.Entities.Hotel;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using System.Xml.Linq;
 
 namespace HotelProject.Infra.Context.Mappings
 {
@@ -13,6 +14,8 @@ namespace HotelProject.Infra.Context.Mappings
 
             builder.Property(x => x.Id)
                    .ValueGeneratedOnAdd();
+
+            builder.HasOne(x => x.Aluguel).WithMany().HasForeignKey(x => x.IdAluguel);
         }
     }
 }

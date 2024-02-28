@@ -7,7 +7,6 @@ namespace HotelProject.Domain.Entities.Hotel
         public int Id { get; set; }
         public string Nome { get; set; }
         public int Andar { get; set; }
-        public ICollection<Aluguel> Aluguel { get; set; }
         public bool Manutencao { get; set; }
         public bool Alugado { get; set; }
         public bool Disponivel { get 
@@ -20,5 +19,7 @@ namespace HotelProject.Domain.Entities.Hotel
               return true;
             } 
         }
+        public int IdAluguel { get; set; }
+        public virtual Aluguel Aluguel { get; set; }
     }
 }

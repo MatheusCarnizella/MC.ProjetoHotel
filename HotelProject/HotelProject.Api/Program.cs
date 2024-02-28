@@ -1,4 +1,6 @@
+using HotelProject.Api;
 using HotelProject.Infra.Context;
+using HotelProject.Infra.IoC;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,6 +17,8 @@ builder.Services.AddDbContext<Context>(opt =>
     opt.EnableSensitiveDataLogging();
 });
 
+builder.Services.AddDependencyInjection();
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
@@ -24,5 +28,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.MappingEndpoits();
 
 app.Run();

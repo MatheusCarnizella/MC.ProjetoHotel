@@ -1,5 +1,6 @@
 ﻿using HotelProject.Domain.Entities.Common;
 using HotelProject.Domain.Entities.Enums;
+using System.Text.Json.Serialization;
 
 namespace HotelProject.Domain.Entities.Hotel
 {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HotelProject.Infra.IoC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc8d5ae912749f5d37766aa7760f512bbf4e11e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+343c7a45f9664cdea5c0a90a916b724fba2796b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("HotelProject.Infra.IoC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HotelProject.Infra.IoC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
